@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bed.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_bed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_start_play.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_start_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pauki.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_pauki.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final_bad.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_final_bad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final_good.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_final_good.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Student\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_luck.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_luck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_water_room.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_water_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final.xml.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\layout\\activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Student\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Student\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

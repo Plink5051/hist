@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="foncolor">#80FFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">History</string>
+    <string name="bed">Вода добралась до верха, выбравшись, вы увидели , что дыра закрылась.\n
+    Вам открылась красивая комната.\n
+    Вам предоставился выбор:</string>
+    <string name="fin">Открыв следующую дверь, вы оказываетесь на открытом пространстве.\n
+    Обойдя вокруг, вы видите только бетонный забор, через который невозможно перебраться.\n
+    Также замечаете клетку с маленькой девочкой.</string>
+    <string name="luck">
+        вода начинает уходить и вы вместе с водой выплываете к реке\n
+    Игра закончена!</string>
+    <string name="start">
+        Вы проснулись в кровати, встали и начинаете падать.\n
+        Вы теряете счет времени… \n
+    Ваш мозг перестает сопротивляться и вы принимаете волевое решение : \n</string>
+    <string name="water">
+        Вы делаете шаг вперед и перед вами открывается дверь.\n
+        Вы попадаете в комнату, которая начинает наполняться водой.\n
+        Вы увидели дыру на потолке. \n
+        Вода наполнилась до середины комнаты, и вы увидели сверкающий предмет на дне, осмотрелись и увидели на дне люк. </string>
+    <style name="Theme.History" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        
+    </style>
+</resources>
